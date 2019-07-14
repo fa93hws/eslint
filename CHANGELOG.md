@@ -1,5 +1,5 @@
 v6.0.1 - June 24, 2019
-
+s
 * [`b5bde06`](https://github.com/eslint/eslint/commit/b5bde0669bd6a7a6b8e38cdf204d8d4b932cea63) Fix: --rulesdir option didn't work (fixes #11888) (#11890) (Toru Nagashima)
 * [`13f0418`](https://github.com/eslint/eslint/commit/13f041897ee31982808a57b4d06450b57c9b27dc) Fix: improve error message on --print-config (fixes #11874) (#11885) (Toru Nagashima)
 * [`056c2aa`](https://github.com/eslint/eslint/commit/056c2aaf39a5f8d06de24f06946dda95032a0361) Fix: improve diagnostics for shareable-config-missing errors (#11880) (Teddy Katz)
